@@ -1,0 +1,38 @@
+  100  ls
+  101  cd AMMI-git
+  102  git remote add newkey https://github.com/agishaalbert/GIT_ASSIGNMENT.git
+  103  git remote -v
+  104  git branch
+  105  git push newkey master
+  106  git commit -m "myfirst comit"
+  107  git status
+  108  pwd
+  109  ls
+  110  cd Documents
+  111  ls
+  112  rm -rf AMMI-git
+  113  ls
+  114  mkdir AMMI_GIT
+  115  cd AMMI_GIT
+  116  mkdir AGISHA_NTWALI_Albert
+  117  cd ..
+  118  mkdir AMMI_first
+  119  mv AMMI_first AMMI_GIT
+  120  ls AMMI_GIT
+  121  cd AMMI_GIT
+  122  touch identity.txt
+  123  nano identity.txt
+  124  head identity.txt
+  125  git init
+  126  git status
+  127  git config --list
+  128  git add .
+  129  git status
+  130  git commit -m "Albert first commit"
+  131  git remote add newkey git@github.com:agishaalbert/GIT_ASSIGNMENT.git
+  132  git remote -v
+  133  git push -u newkey master
+  134  history>Agishacommande.txt
+  135  ls
+  136  git status
+  137  rm Agishacommande.txt
